@@ -86,6 +86,4 @@ http://localhost:8000
 
 ## 👨‍💻 Author
 
-Vedant Tambe  
-DevOps & AWS Enthusiast  
-Cloud & DevOps Engineer
+Prachita Kudale
